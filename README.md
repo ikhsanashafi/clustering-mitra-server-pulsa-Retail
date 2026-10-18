@@ -1,4 +1,4 @@
-# 📊 Clustering Mitra Server Pulsa — Retail Analytics
+# 📊 Clustering Mitra Server Pulsa - Retail Analytics
 
 Machine Learning | Unsupervised Learning | K-Means Clustering
 
@@ -14,23 +14,23 @@ Melalui project ini, data transaksi diolah menjadi informasi yang lebih terstruk
 
 ## 🧠 Methodology
 
-1. Data Understanding — Memahami struktur, atribut, dan karakteristik dataset.
-2. Data Preprocessing — Membersihkan data, menangani nilai kosong, dan menyiapkan fitur yang relevan.
-3. Exploratory Data Analysis (EDA) — Mengidentifikasi distribusi dan pola data transaksi.
-4. Feature Engineering — Menentukan variabel yang relevan untuk proses clustering.
-5. K-Means Clustering — Mengelompokkan mitra berdasarkan kemiripan karakteristik data.
-6. Cluster Evaluation — Mengevaluasi kualitas clustering menggunakan metrik yang sesuai, seperti Silhouette Score.
-7. Visualization & Interpretation — Menampilkan dan menginterpretasikan karakteristik setiap cluster.
-8. Deployment — Menyajikan hasil analisis melalui aplikasi interaktif berbasis Streamlit.
+1. Data Understanding - Memahami struktur, atribut, dan karakteristik dataset.
+2. Data Preprocessing - Membersihkan data, menangani nilai kosong, dan menyiapkan fitur yang relevan.
+3. Exploratory Data Analysis (EDA) - Mengidentifikasi distribusi dan pola data transaksi.
+4. Feature Engineering - Menentukan variabel yang relevan untuk proses clustering.
+5. K-Means Clustering - Mengelompokkan mitra berdasarkan kemiripan karakteristik data.
+6. Cluster Evaluation - Mengevaluasi kualitas clustering menggunakan metrik yang sesuai, seperti Silhouette Score.
+7. Visualization & Interpretation - Menampilkan dan menginterpretasikan karakteristik setiap cluster.
+8. Deployment - Menyajikan hasil analisis melalui aplikasi interaktif berbasis Streamlit.
 
 ## 🛠️ Tech Stack
 
-- Python — Bahasa pemrograman utama.
-- Pandas & NumPy — Pengolahan dan manipulasi data.
-- Scikit-learn — Preprocessing dan implementasi K-Means.
-- Matplotlib — Visualisasi hasil analisis.
-- Jupyter Notebook — Eksperimen dan eksplorasi data.
-- Streamlit — Dashboard interaktif dan deployment aplikasi.
+- Python - Bahasa pemrograman utama.
+- Pandas & NumPy - Pengolahan dan manipulasi data.
+- Scikit-learn - Preprocessing dan implementasi K-Means.
+- Matplotlib - Visualisasi hasil analisis.
+- Jupyter Notebook - Eksperimen dan eksplorasi data.
+- Streamlit - Dashboard interaktif dan deployment aplikasi.
 
 ## 📁 Project Structure
 
