@@ -1,0 +1,30 @@
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.env
+
+# Raw Confidential Business Data (STRICT PROTECTION)
+# Do NOT upload original client/server transaction files with customer phone numbers or SN
+*.xlsx
+*.xls
+*data-transaksi-pulsa.csv
+*ikhsan.xlsx
+raw_data/
+uploads/
+
+# IDE & OS specific files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
